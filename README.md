@@ -58,8 +58,6 @@ Open `CRYPTO_PRICE_PREDICTION.ipynb` in Jupyter Notebook or VS Code.
 - The model predicts Bitcoin's closing price using previous 60-day windows.
 - Plots show how well the model captures trends in BTC-USD price movements.
 
-![Sample Plot](https://user-images.githubusercontent.com/yourplaceholder/btc_prediction_example.png)
-
 ---
 
 ## 📝 Notes
